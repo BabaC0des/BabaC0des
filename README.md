@@ -17,7 +17,6 @@ Available for development, debugging, and collaborative projects—let’s work 
 
 📘 I'm currently studying C++ to deepen my understanding of programming and improve my technical abilities.
 
-I'm also on codewars if you want to check it out: https://www.codewars.com/users/milaasHD
 
 ## Let's Connect
 - 📫 Reach out to me at:
